@@ -27,14 +27,15 @@ ul {
   position:initial;
   background-color: #eccca2;
   overflow: hidden;
-  
 }
 .menu a {
   display: block;
   padding: 0px;
   color: white;
 }
-
+.nav li{
+  color: #5b2d02;
+}
 .menu a:hover {
   background-color: gray;
 }
