@@ -150,8 +150,9 @@ main {
   padding-left: 0px;
   padding-top: 230px;
   overflow: hidden;
-  font-size: 50px;
+  font-size: 40px;
   color: white;
+  
 }
 .sub-tittle {
   flex-basis: 50%;
@@ -159,12 +160,16 @@ main {
   overflow: hidden;
   font-size: 35px;
   color: #fcea46;
-  font-weight: 400;
+  font-weight: 350;
   margin-bottom: 20px;
+  
 }
 
+.main-content{
+  margin: 0;
+}
 form {
-  width: 350px;
+  width: 250px;
   margin: auto;
   background: rgba(246, 195, 130, 0.274);
   padding: 10px 20px;
