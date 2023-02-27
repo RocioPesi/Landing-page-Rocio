@@ -234,6 +234,7 @@ h2 {
   flex-wrap: wrap;
   text-align: center;
   color: #eccca2;
+  margin-bottom: 40px;
 }
 
 .box-container .box {
@@ -306,6 +307,7 @@ h2 {
   padding-top: 20px;
   background-color: #eccca2;
   width: 100%;
+  
   }
 
 .box-container2 {
